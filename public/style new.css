@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,800");
+body {
+	display: center;
+	height: 100vh;
+	justify-content: center;
+    text-align: center;
+	align-items: center;
+	font-family: "Open Sans", sans-serif;
+	color: azure;
+	background: radial-gradient(circle, #444857, #2c303a);
+}
+
+
+
